@@ -21,7 +21,6 @@
 # misc
 .DS_Store
 *.pem
-.openai/
 *-졸업계획.json
 *-졸업요건.xlsx
 
