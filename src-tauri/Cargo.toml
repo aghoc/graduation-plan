@@ -1,0 +1,12 @@
+[package]
+name = "graduation-planner"
+version = "0.1.0"
+description = "Yonsei Mirae graduation requirements planner"
+authors = ["Graduation Planner"]
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
