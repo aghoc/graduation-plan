@@ -39,7 +39,7 @@
     "react-server-dom-webpack": "19.2.6",
     "typescript": "5.9.3",
     "vinext": "0.0.50",
-    "vite": "8.0.13"
+    "vite": "8.1.5"
   },
   "type": "module"
 }
